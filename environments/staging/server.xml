@@ -7,7 +7,10 @@
     <feature>mpHealth-4.0</feature>
     <feature>mpConfig-3.1</feature>
     <feature>passwordUtilities-1.1</feature>
-    <feature>microProfile-6.1</feature>
+    <feature>appSecurity-4.0</feature>
+    <feature>jakartaee-8.0</feature>
+    <feature>ejbLite-3.2</feature>
+    <feature>cdi-1.0</feature>
   </featureManager>
 
   <applicationManager autoExpand="true" />

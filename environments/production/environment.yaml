@@ -9,7 +9,7 @@ app:
   #   artifactId: "ferret"
   #   version: "1.2"
   #   type: "war"
-  version: "ea15244b-53f4-4466-927f-4d24244286b3"
+  version: ""
 
   endpoints: public
   # number of instances
